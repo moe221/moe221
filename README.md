@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Moe</h1>
 <h3 align="center">A Self-driven and dedicated data engineer based in Berlin</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moe221" alt="moe221" /></a> </p>
 
-- 🔭 I’m currently working on [diversity analysis of Holywood films](https://github.com/moe221/diversity_in_cinema)
+- 🔭 I’m currently working on: [diversity analysis of Holywood films](https://github.com/moe221/diversity_in_cinema)
 
-- 🌱 I’m currently learning **CD/CI, Deep Learning, GCP**
+- 🌱 I’m currently learning: **CD/CI, Deep Learning, GCP**
 
-- 👨‍💻 All of my projects are available at [https://moe221.github.io/My_Portfolio_Website/](https://moe221.github.io/My_Portfolio_Website/)
+- 👨‍💻 All of my projects are available at: [https://moe221.github.io/My_Portfolio_Website/](https://moe221.github.io/My_Portfolio_Website/)
 
-- 📫 How to reach me **myf.abuhalala@gmail.com**
+- 📫 How to reach me: **myf.abuhalala@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mohamed-a-b18712201/](https://www.linkedin.com/in/mohamed-a-b18712201/)
+- 📄 Know about my experiences: [https://www.linkedin.com/in/mohamed-a-b18712201/](https://www.linkedin.com/in/mohamed-a-b18712201/)
 
-- ⚡ Fun fact **Originally from Libya but been living in Germany for the past 9 years**
+- ⚡ Fun fact: **Originally from Libya but been living in Germany for the past 9 years**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

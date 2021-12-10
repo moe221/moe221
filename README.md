@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **myf.abuhalala@gmail.com**
 
-- 📄 Know about my experiences: [https://www.linkedin.com/in/mohamed-a-b18712201/](https://www.linkedin.com/in/mohamed-a-b18712201/)
+- 📄 Know about my experiences: [https://www.linkedin.com/in/mohamed-abuhalala/](https://www.linkedin.com/in/mohamed-a-b18712201/)
 
 - ⚡ Fun fact: **Originally from Libya but been living in Germany for the past 9 years**
 

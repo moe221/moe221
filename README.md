@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on: [diversity analysis of Holywood films](https://github.com/moe221/diversity_in_cinema)
 
-- 🌱 I’m currently learning: **CD/CI, Deep Learning, GCP, Hadoop, Apache Spark, Apache Airflow**
+- 🌱 I’m currently learning: **CD/CI, Deep Learning, GCP, Apache Spark, Apache Airflow**
 
 - 👨‍💻 All of my projects are available at: [https://moe221.github.io/My_Portfolio_Website/](https://moe221.github.io/My_Portfolio_Website/)
 

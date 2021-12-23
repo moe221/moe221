@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences: [https://www.linkedin.com/in/mohamed-abuhalala/](https://www.linkedin.com/in/mohamed-a-b18712201/)
 
-- ⚡ Fun fact: **Originally from Libya but been living in Germany for the past 9 years**
+- ⚡ Fun fact: **Can paly "My Heart Will Go On" on the flute 🎺**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

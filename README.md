@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Moe</h1>
-<h3 align="center">A Self-driven and dedicated data engineer based in Berlin</h3>
+<h3 align="center">Data analyst based in Berlin</h3>
 
 
-- 👨‍💻 All of my projects are available at: [https://moe221.github.io/My_Portfolio_Website/](https://moe221.github.io/My_Portfolio_Website/)
+- 👨‍💻 All of my projects are available at [https://moe221.github.io/My_Portfolio_Website/](https://moe221.github.io/My_Portfolio_Website/)
 
 - 📫 How to reach me: **myf.abuhalala@gmail.com**
 
 - 📄 Know about my experiences: [https://www.linkedin.com/in/mohamed-abuhalala/](https://www.linkedin.com/in/mohamed-a-b18712201/)
 
-- ⚡ Fun fact: **Can paly "My Heart Will Go On" on the flute 🎺**
+- ⚡ Fun fact: **Can play "My Heart Will Go On" on the flute 🎺**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

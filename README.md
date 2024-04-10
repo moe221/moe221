@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moe</h1>
-<h3 align="center">Data analyst based in Berlin</h3>
+<h3 align="center">Data Scientist based in Berlin</h3>
 
 
 - 👨‍💻 All of my projects are available at [https://moe221.github.io/My_Portfolio_Website/](https://moe221.github.io/My_Portfolio_Website/)

@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist based in Berlin</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://moe221.github.io/My_Portfolio_Website/](https://moe221.github.io/MohamedAbuhalala/)
+- 👨‍💻 All of my projects are available at [https://mohamed-abuhalala.vercel.app](https://mohamed-abuhalala.vercel.app)
 
 - 📫 How to reach me: **myf.abuhalala@gmail.com**
 
